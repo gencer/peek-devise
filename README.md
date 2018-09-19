@@ -10,15 +10,12 @@ Things this peek view provides:
 
 Add this line to your application's Gemfile:
 
-    gem 'peek-devise'
+    gem 'peek-devise', github: 'gencer/peek-devise', branch: 'master'
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install peek-devise
 
 ## Usage
 
