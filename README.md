@@ -8,9 +8,11 @@ Things this peek view provides:
 
 ## Installation
 
+    gem install peek-devise
+	
 Add this line to your application's Gemfile:
 
-    gem 'peek-devise', github: 'gencer/peek-devise', branch: 'master'
+    gem 'peek-devise'
 
 And then execute:
 
